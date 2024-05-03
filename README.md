@@ -1,6 +1,3 @@
-<img src="https://github.com/catherineisonline/sunnyside-agency-landing-page-frontendmentor/blob/main/images/project-preview.png?raw=true"></img>
-
-
 <h1 align="center">Sunnyside Agency Landing Page</h1>
 
 <div align="center">
@@ -37,8 +34,6 @@ You can use any tools you like to help you complete the challenge. So if you've 
 <br> <p>I do not have access to the Figma sketch so the design is not pixel perfect.</p>
 
 
-
-
 ## Built with 
 
 - Semantic HTML5 markup
@@ -55,9 +50,3 @@ Great project if you are just starting out or need to remember the basics like c
 
 1. <a href="https://www.figma.com/">Figma</a> - Paste your design image to check the size of containers, width, etc.
 2. <a href="https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi">Perfect Pixel</a> - Awesome Chrome extension that helps you to match the pixels of the provided design.
-
-
-
-## Acknowledgments
-
-A big thank you to anyone providing feedback on my <a href="https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-QfXrSGu5A">solution</a>. It definitely helps to find new ways to code and find easier solutions! 
